@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1551834597 source:e:\fci\second year\second term\data structure\assignments\matrixtemplates\main.cpp
+	<iostream>
+	<iomanip>
+	"matrix.h"
+	"matcalculator.h"
+
+1551834579 e:\fci\second year\second term\data structure\assignments\matrixtemplates\include\matrix.h
+	<iostream>
+	<iomanip>
+	<cstring>
+	<cmath>
+
+1551834579 e:\fci\second year\second term\data structure\assignments\matrixtemplates\include\matcalculator.h
+	"matrix.h"
+
+1551834618 source:e:\fci\second year\second term\data structure\assignments\matrixtemplates\src\matcalculator.cpp
+	"matcalculator.h"
+
+1551834579 source:e:\fci\second year\second term\data structure\assignments\matrixtemplates\src\matrix.cpp
+	"matrix.h"
+
